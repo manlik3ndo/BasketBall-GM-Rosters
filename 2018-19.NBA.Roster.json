@@ -9537,7 +9537,18 @@
 "draft":{"round":0,"pick":0,"tid":-1,"originalTid":-1,"year":2016},
 "college":"Arizona",
 "injury":{"type":"Healthy","gamesRemaining":0}},
-
+  
+{"tid":5,
+"name":"Endurance Osemwegie",
+"ratings":[{"hgt":84,"stre":87,"spd":89,"jmp":86,"endu":85,"ins":83,"dnk":89,"ft":82,"fg":80,"tp":84,"diq":85,"oiq":81,"drb":87,"pss":89,"reb":89,"skills":["3","A","Po","R"]}],
+"pos":"FC","hgt":82,"weight":251,
+"born":{"year":1998,"loc":"Santa Monica, CA"},
+"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201567.png",
+"contract":{"amount":01119,"exp":2023},
+"draft":{"round":1,"pick":5,"tid":14,"originalTid":14,"year":2017},
+"college":"UCLA",
+"injury":{"type":"Healthy","gamesRemaining":0}},
+  
 {"tid":-1,
 "name":"Josh Gray",
 "ratings":[{"hgt":14,"stre":24,"spd":76,"jmp":55,"endu":57,"ins":28,"dnk":59,"ft":40,"fg":57,"tp":63,"diq":10,"oiq":43,"drb":76,"pss":63,"reb":6,"skills":[]}],
